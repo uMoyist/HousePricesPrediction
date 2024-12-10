@@ -34,7 +34,7 @@ y = data.SalePrice
 
 predictors = data.drop(['SalePrice'], axis=1)
 
-numeric_features = predictors.select_dtypes(include=['int64']).columns.tolist()
+numeric_features = predictors.select_dtypes(include=['int64', 'float64']).columns.tolist()
 non_numeric_features = predictors.select_dtypes(include=['object']).columns.tolist()
 
 numeric_stats = predictors[numeric_features].describe()

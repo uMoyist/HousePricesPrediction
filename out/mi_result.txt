@@ -1,0 +1,243 @@
+Column: Id
+  mutual_info_regression: [0]
+--------------------------------------------------
+Column: LandSlope
+  mutual_info_regression: [0]
+--------------------------------------------------
+Column: Condition2
+  mutual_info_regression: [0]
+--------------------------------------------------
+Column: Functional
+  mutual_info_regression: [0]
+--------------------------------------------------
+Column: 3SsnPorch
+  mutual_info_regression: [0]
+--------------------------------------------------
+Column: MiscVal
+  mutual_info_regression: [0]
+--------------------------------------------------
+Column: MoSold
+  mutual_info_regression: [0]
+--------------------------------------------------
+Column: YrSold
+  mutual_info_regression: [0]
+--------------------------------------------------
+Column: PoolArea
+  mutual_info_regression: [0.00110233]
+--------------------------------------------------
+Column: PoolQC
+  mutual_info_regression: [0.00129718]
+--------------------------------------------------
+Column: Street
+  mutual_info_regression: [0.00158777]
+--------------------------------------------------
+Column: BsmtFinSF2
+  mutual_info_regression: [0.00186767]
+--------------------------------------------------
+Column: Utilities
+  mutual_info_regression: [0.00310622]
+--------------------------------------------------
+Column: Heating
+  mutual_info_regression: [0.00526212]
+--------------------------------------------------
+Column: MiscFeature
+  mutual_info_regression: [0.00682078]
+--------------------------------------------------
+Column: ScreenPorch
+  mutual_info_regression: [0.01522519]
+--------------------------------------------------
+Column: RoofMatl
+  mutual_info_regression: [0.01555892]
+--------------------------------------------------
+Column: RoofStyle
+  mutual_info_regression: [0.01665949]
+--------------------------------------------------
+Column: BsmtHalfBath
+  mutual_info_regression: [0.01683876]
+--------------------------------------------------
+Column: LowQualFinSF
+  mutual_info_regression: [0.01742807]
+--------------------------------------------------
+Column: LotConfig
+  mutual_info_regression: [0.01891]
+--------------------------------------------------
+Column: Condition1
+  mutual_info_regression: [0.02044708]
+--------------------------------------------------
+Column: BsmtFinType2
+  mutual_info_regression: [0.02353872]
+--------------------------------------------------
+Column: KitchenAbvGr
+  mutual_info_regression: [0.024335]
+--------------------------------------------------
+Column: BsmtFullBath
+  mutual_info_regression: [0.02639383]
+--------------------------------------------------
+Column: Electrical
+  mutual_info_regression: [0.02789313]
+--------------------------------------------------
+Column: ExterCond
+  mutual_info_regression: [0.03156347]
+--------------------------------------------------
+Column: LandContour
+  mutual_info_regression: [0.03471722]
+--------------------------------------------------
+Column: Alley
+  mutual_info_regression: [0.03637276]
+--------------------------------------------------
+Column: EnclosedPorch
+  mutual_info_regression: [0.03753335]
+--------------------------------------------------
+Column: Fence
+  mutual_info_regression: [0.03896583]
+--------------------------------------------------
+Column: BldgType
+  mutual_info_regression: [0.04306405]
+--------------------------------------------------
+Column: PavedDrive
+  mutual_info_regression: [0.05468996]
+--------------------------------------------------
+Column: BsmtCond
+  mutual_info_regression: [0.06190256]
+--------------------------------------------------
+Column: SaleType
+  mutual_info_regression: [0.0659735]
+--------------------------------------------------
+Column: GarageQual
+  mutual_info_regression: [0.06772114]
+--------------------------------------------------
+Column: LotShape
+  mutual_info_regression: [0.07208449]
+--------------------------------------------------
+Column: CentralAir
+  mutual_info_regression: [0.07281012]
+--------------------------------------------------
+Column: BedroomAbvGr
+  mutual_info_regression: [0.07465609]
+--------------------------------------------------
+Column: SaleCondition
+  mutual_info_regression: [0.07625891]
+--------------------------------------------------
+Column: HouseStyle
+  mutual_info_regression: [0.07921535]
+--------------------------------------------------
+Column: GarageCond
+  mutual_info_regression: [0.07975907]
+--------------------------------------------------
+Column: BsmtExposure
+  mutual_info_regression: [0.08310503]
+--------------------------------------------------
+Column: HalfBath
+  mutual_info_regression: [0.08934797]
+--------------------------------------------------
+Column: MasVnrType
+  mutual_info_regression: [0.09337472]
+--------------------------------------------------
+Column: MasVnrArea
+  mutual_info_regression: [0.09341209]
+--------------------------------------------------
+Column: OverallCond
+  mutual_info_regression: [0.10956858]
+--------------------------------------------------
+Column: WoodDeckSF
+  mutual_info_regression: [0.11275477]
+--------------------------------------------------
+Column: MSZoning
+  mutual_info_regression: [0.11291245]
+--------------------------------------------------
+Column: BsmtUnfSF
+  mutual_info_regression: [0.11357429]
+--------------------------------------------------
+Column: Exterior1st
+  mutual_info_regression: [0.13509719]
+--------------------------------------------------
+Column: OpenPorchSF
+  mutual_info_regression: [0.13874277]
+--------------------------------------------------
+Column: BsmtFinSF1
+  mutual_info_regression: [0.1462335]
+--------------------------------------------------
+Column: BsmtFinType1
+  mutual_info_regression: [0.14764753]
+--------------------------------------------------
+Column: LotArea
+  mutual_info_regression: [0.1598434]
+--------------------------------------------------
+Column: Exterior2nd
+  mutual_info_regression: [0.16572564]
+--------------------------------------------------
+Column: Fireplaces
+  mutual_info_regression: [0.17383498]
+--------------------------------------------------
+Column: HeatingQC
+  mutual_info_regression: [0.1742744]
+--------------------------------------------------
+Column: FireplaceQu
+  mutual_info_regression: [0.19819187]
+--------------------------------------------------
+Column: Foundation
+  mutual_info_regression: [0.20470467]
+--------------------------------------------------
+Column: 2ndFlrSF
+  mutual_info_regression: [0.20588945]
+--------------------------------------------------
+Column: GarageType
+  mutual_info_regression: [0.20730198]
+--------------------------------------------------
+Column: LotFrontage
+  mutual_info_regression: [0.20823111]
+--------------------------------------------------
+Column: TotRmsAbvGrd
+  mutual_info_regression: [0.21914595]
+--------------------------------------------------
+Column: YearRemodAdd
+  mutual_info_regression: [0.24794586]
+--------------------------------------------------
+Column: GarageYrBlt
+  mutual_info_regression: [0.2528709]
+--------------------------------------------------
+Column: GarageFinish
+  mutual_info_regression: [0.25808818]
+--------------------------------------------------
+Column: FullBath
+  mutual_info_regression: [0.26676066]
+--------------------------------------------------
+Column: MSSubClass
+  mutual_info_regression: [0.26936622]
+--------------------------------------------------
+Column: 1stFlrSF
+  mutual_info_regression: [0.30886655]
+--------------------------------------------------
+Column: ExterQual
+  mutual_info_regression: [0.32143916]
+--------------------------------------------------
+Column: BsmtQual
+  mutual_info_regression: [0.32875865]
+--------------------------------------------------
+Column: KitchenQual
+  mutual_info_regression: [0.32997096]
+--------------------------------------------------
+Column: GarageCars
+  mutual_info_regression: [0.36112089]
+--------------------------------------------------
+Column: TotalBsmtSF
+  mutual_info_regression: [0.36120863]
+--------------------------------------------------
+Column: GarageArea
+  mutual_info_regression: [0.36250021]
+--------------------------------------------------
+Column: YearBuilt
+  mutual_info_regression: [0.36873963]
+--------------------------------------------------
+Column: GrLivArea
+  mutual_info_regression: [0.47904495]
+--------------------------------------------------
+Column: Neighborhood
+  mutual_info_regression: [0.50855498]
+--------------------------------------------------
+Column: OverallQual
+  mutual_info_regression: [0.56828812]
+--------------------------------------------------
+Column: SalePrice
+  mutual_info_regression: [5.57548519]
+--------------------------------------------------
