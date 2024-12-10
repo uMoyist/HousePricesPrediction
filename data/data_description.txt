@@ -1,4 +1,5 @@
-MSSubClass: Identifies the type of dwelling involved in the sale.	
+MSSubClass: Identifies the type of dwelling involved in the sale.
+“MSSubClass”：用于识别销售中所涉及住宅的类型。
 
         20	1-STORY 1946 & NEWER ALL STYLES
         30	1-STORY 1945 & OLDER
@@ -18,6 +19,7 @@ MSSubClass: Identifies the type of dwelling involved in the sale.
        190	2 FAMILY CONVERSION - ALL STYLES AND AGES
 
 MSZoning: Identifies the general zoning classification of the sale.
+“MSZoning”：用于确定销售房产的一般分区分类情况。
 		
        A	Agriculture
        C	Commercial
@@ -29,6 +31,7 @@ MSZoning: Identifies the general zoning classification of the sale.
        RM	Residential Medium Density
 	
 LotFrontage: Linear feet of street connected to property
+“LotFrontage”：与房产相连的街道临街面的直线长度（单位为英尺）。
 
 LotArea: Lot size in square feet
 
@@ -38,6 +41,10 @@ Street: Type of road access to property
        Pave	Paved
        	
 Alley: Type of alley access to property
+小巷：通往房产的小巷通道类型。
+砾石（Grvl）：表示小巷通道为砾石材质。
+铺设（Pave）：表示小巷通道是经过铺设的。
+无（NA）：表示没有小巷通道可通往该房产。
 
        Grvl	Gravel
        Pave	Paved
@@ -248,6 +255,7 @@ MasVnrType: Masonry veneer type
        Stone	Stone
 	
 MasVnrArea: Masonry veneer area in square feet
+砖石贴面面积：以平方英尺为单位的砖石贴面面积。
 
 ExterQual: Evaluates the quality of the material on the exterior 
 		
@@ -421,6 +429,7 @@ GarageType: Garage location
        NA	No Garage
 		
 GarageYrBlt: Year garage was built
+车库建造年份：车库建成的年份。
 		
 GarageFinish: Interior finish of the garage
 
